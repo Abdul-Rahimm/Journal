@@ -1,0 +1,10 @@
+Just learned a little more about Kafka and how it is used because it has very high throughput
+
+two other things which really matter areS
+1. sequential IO instead of random	
+2. zero copy principle
+
+-- distribution and scaling of messaging systems
+
+I am going to learn the things as I need them Insha'Allah. I am very grateful for being able to go to office today and have the most productive day which I had. There was so much to learn and so much I accomplished today Alhamdullilah. 
+

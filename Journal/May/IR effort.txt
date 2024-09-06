@@ -1,0 +1,111 @@
+Relevance Feedback Bank
+
+qs - what is meant by query expansion?
+- autonomous process of reformulating a seed query.
+- to improve retrieval performance.
+- bridges the gap between what the user actually wants and what query is he coming up with
+- lexical mismatch such as car and automobile.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Text classification Bank
+
+qs - why is naive bayes regarded as a baseline classifier
+- probabilistic classifier based on applying bayes theorem
+- strong independence assumption bw the features. we assume that there is no dependence bw the features in naive bayes
+- highly scalable
+- offers a standard classification
+- improvement can be done by relaxing the assumptions
+
+qs- how do we treat the words that do no appear in the training doc for NB classifiers?
+- in NB classifier, training data is never complete
+- there are always terms(features) that do not appear in training data
+- the max likelihood for such terms is zero - we can not compute probability for a given class
+- one solution is laplace smoothing - simply add one to all counts
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+Text clustering Bank
+
+qs - differentiate between K means and HAC approaches to clustering
+1. k means is a partition clustering approach while HAC is a hierarchical clustering approach(produces hierarchy of clusters)
+2. it takes k as input number of clusters to be produced. HAC merges clusters to produce hierarchy, you can cut at the desired level.
+3. running time depends upon data points. time is polynomial
+
+- K means converges to a local min. in order to find optimal clustering, one needs to find out all the possible cluster arrangments.
+
+-------------------------------------------------------------------------------------
+Web search and crawler bank
+
+qs - difference between directory style search(yahoo) and text search(google)
+- directory search maintains a large hierarchical directory of terms
+- user needs to follow topic based hierarchical path to get his required info
+- difficult
+- exploration of the hierarchical path gives you the relevant results
+
+on the other hand, text search is quite easy
+- simple text based search
+- autonomously crawl and index pages based on text terms.
+- relevant results are based on retrieval approach (PageRank) rather than hierarchy.
+
+qs - three different types of user queries
+
+qs - three challenges of a modern web crawler and solution
+1. websites usually block access when you are trying to access them using an autonomous crawler. the crawler must be polite and respect
+the implicit and explicit policies regarding the rate at which the crawler can visit them.
+2. crawler must be robust and extensible (adapt to new formats etc)s
+3. crawler must be distributed and scalable as it needs to crawl millions of web pages.
+4. freshness - must maintain a newest copy of previously fetched pages. 
+
+
+
+---------------------------------------------------------------------------------------------
+Link analysis Bank
+
+qs. four differences between HITS and PageRank algorithms 
+1. HITS gives two scores for each page ie hub and authority. pagerank always gies just a single score
+2. hits is not robust. pagerank is robust.
+3. hits is computed at runtime. pagerank is pre computed at index time.
+4. hits never favours pages. pagerank favours old pages.
+5. hits is query dependent.
+
+
+HITS and PageRank algorithms need to be done
+
+qs - interesting facts about HITS algorithm
+1. the documents that emerge as the top hubs and authorities often contain language other
+then the lang of the query. this confirms cross lang IR
+2. HITS is more stable for link analysis. a small change in the link topology does not 
+majorly alter the result set
+
+
+HOW DOES HITS WORK
+h1 = p.a0 		--> hubs1 = adj  *auth0
+a1 = pTranspose.h0 	--> auth1 = adjT *hub0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

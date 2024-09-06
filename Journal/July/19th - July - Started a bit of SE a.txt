@@ -1,0 +1,7 @@
+19th - July - Started a bit of SE and System Design
+
+Netflix and Discord are big tech companies with very effective system designs. But they have their current design as a result of solving multiple problems as they arised. 
+
+System Design comes with time, as hassan bhai told me earlier. It comes with experience.. you learn the little nuances of what to do and what not to do in a specific situation with time, as you face it.
+
+Case studies is the recommended way. I will inshaAllah read case studies related to engineering and design. The purpose is not to memorize things but be familiar with what problems can arise and how to solve them.

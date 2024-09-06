@@ -1,0 +1,9 @@
+EC2 is the server which we use to access the virtual servers.
+
+hypervisor manages the multi tenancy. manages resource sharing
+
+compute, memory and network.
+
+---------------------------------
+I learned about EC2, lambda, EKS, ECS and Fargate. completed module 2. 
+container orchestration tools. 

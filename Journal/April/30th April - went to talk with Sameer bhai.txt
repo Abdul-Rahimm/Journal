@@ -1,0 +1,10 @@
+30th April - went to talk with Sameer bhai at Cipher
+
+The better you define the problem, the more its likely to get solved.
+
+1. Refactoring. Space optimization.
+2. Performance. Security. Scalability.
+3. GraphQL
+4. Drubal
+5. APIs
+6. Payment gateways

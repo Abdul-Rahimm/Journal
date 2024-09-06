@@ -1,0 +1,79 @@
+The vision over here is that some things are deserved to be written down. 
+The simple reason is that they are important. And if you don't write them down, they are going to get lost in your mind. They need prominent space
+
+-- Regional Data Sovereignty.
+
+4 key factors of deciding a region.
+1. Compliance 		- Most important factor if applies.
+2. Proximity  		- according to your audience.
+3. Feature Availability - varies according to regions. 
+4. Pricing 		- Brazil is more expensive.
+
+... moving key parts inside a region.
+
+-----------------------------------------------------------------------------
+Imagine the millions of customers who use AWS services.
+Also, imagine the millions of resources that these customers have created, such as Amazon EC2 instances.
+
+this makes you wonder how beautifully they have planned and designed their architecture. but what is the secret that so much load is there but everything is so smooth.
+-----------------------------------------------------------------------------
+
+Amazon VPC. 	enables u to take a private section of the AWS cloud. 
+		your own private network
+
+subnets are used to organize resources.
+baristas into the private subnet and cashiers into the public subnet
+
+Virtual private cloud
+inside of which u have public and private subnets
+public main EC2 instances
+private main u have databases
+
+to access the VPC u need internet gateway
+
+if youre accessing the private resources u need to make requests which have an added layer of protection VPN
+OR u can have a direct connection as well with AWS direct connect.
+
+-----------------------------------------------------------------------------
+there are different boundaries at play here
+the subnet boundary is where the ACL operates
+the instance level security is managed by sec groups
+
+amazon route 53 and amazon cloudfront CDN. these services are used to deliver content to customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

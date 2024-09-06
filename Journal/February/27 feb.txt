@@ -1,0 +1,27 @@
+Precision = relevantly retreived/total retreived
+recall    = relevantly retreived/total relevant
+
+stemming 
+huerietic based rule fast
+generates unreadable tokens
+too aggressive. precision less recall more
+
+lemmatization
+considers dict and context slow
+generates readable lexeme
+better precision but less recall
+
+inverted index
+less sparsity 
+quick access
+
+champion list = for each term t in the dict
+		you have a list of r docs
+		which have the highest tf of t
+
+post processing means processing on the result set. it removes all the false positives
+
+we need to compress the dictionary mainly so that less time is involved in processing a quert. compressed dict means less disks to search
+less response time
+main goal is to make the dict fit into the main memory.
+

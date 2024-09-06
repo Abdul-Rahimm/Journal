@@ -1,0 +1,7 @@
+MINIMAX - adversarial
+
+Try to maximize the score - concept of winning and losing - mathematical way of saying the same thing.
+
+"we need some notion of.."
+
+NEXT : knowledge. how is it that our agents know info, reason about that info and draw conclusions. 

@@ -1,0 +1,57 @@
+I also learned about BALANCE today. and what does this word really mean?
+think about it from a perspective of work play balance
+of the balance between how their is good and evil in the world
+the beautiful balance of the creation of this universe.
+a concept.. a word worth exploring
+
+
+What really is meant by the first principles approach? what does it really mean in the context of learning and cognition.
+Maybe, what it means is that boil everything you learn down to the most simplest version. 
+break the complex problem down into parts such as every part in itself is easy to accomplish.
+deal with the parts one by one and the complex problem solves itself.
+
+practially speaking about this theory:
+for instance, if i want to become a good software engineer... i need to be good at DSA and development.
+thats a really big task
+
+now think about how to break this big task down into simpler chunks
+for example the daily POTD serves as a task for enhancing your DSA skills
+the daily youtube MERN stack video serves as a oppurunitu for u to learn web dev
+the ML series lets you think about the creative side of CS and how thru CS u can do a variety of things.. it also 
+makes you want to explore many things. 
+
+so on and so forth. this is the basic idea. 
+
+and this does not just restrict itself to your goals. 
+you can apply this technique to learning as well. 
+
+for instance, simplify what youre learning in ML right now:
+Today you learned how to classify the images of humans vs horses. how the model works on feature extraction.
+if you think about it... it was a step by step process. a proper iterative process
+
+at first they created the directories of the training and validation set
+then they moved on to creating the model
+then they compiled the model and fit it with the training dataset
+model.summary()
+then they see how it works on the validation set
+
+see... taking a bigger problem and breaking it down to smaller..more understandble peices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

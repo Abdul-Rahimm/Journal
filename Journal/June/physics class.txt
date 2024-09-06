@@ -1,0 +1,16 @@
+to drive a car, we need some conditions. the car should have fuel, should have a working engine etc.
+
+for any kind of movement, we need a force. no movement can be done without a source force. 
+similarly, for any object to oscillate, we need some kind of resultant force. that rf acts towards the equilibrium position.
+
+acc is proportional to the displacement from equilibrium 
+acc should always act towards equilibrium  
+
+rf can also be called restorative force.. and this is very meaningful name.
+
+give the example of pendulum and ball.
+when this spring is going to oscillate, there is going to be change of tension in the spring. that change in tension provides the restorative force.
+
+-----------
+ticker tape is only used to record the trolley's motion and plot it on a graph
+

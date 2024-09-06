@@ -1,0 +1,35 @@
+Lets start with Bayesian Networks. 
+
+Covered the slides of Bayesian networks
+Completed video number 1 to get fundamental understanding of concepts.
+
+Tomorrow first thing is to write the first 2 examples on paper and understand them.
+then move on to second video on Bayesian networks
+
+------
+I have covered 4 examples of Bayesian networks in depth. 
+Now will move onto other topics
+
+Will cover the concept videos first.
+follow the plan made. 
+--------
+most of the topics are covered on an introductory level...now what needs to be done is examples.
+
+at the end of the day we will have super review. brief. 
+for that... its important to have good notes. 
+
+... we will resume with linear regression after lunch. 
+followed by performance matrix - still needs to be revisited
+followed by nueral networks.. know what is meant by feed forwarding. 
+--------
+we will resume studying at 11 - with nueral network 20 min video and then Neeraj slide.
+
+I have also downloaded some past papers... do have a look at them.
+
+
+all this will be followed by worked examples of Bayesian network and then KNN/kmeans
+---------------
+
+the official prep is done. alhamdullilah.
+
+will have a summary look tomorrow in point. 

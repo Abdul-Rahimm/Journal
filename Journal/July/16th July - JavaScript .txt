@@ -1,0 +1,4 @@
+debouncing is a method that limits the rate at which a certain function is called.
+
+a situation where a function is called multiple times within a short time frame --> performance issues - use debounce.
+
