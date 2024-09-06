@@ -1,0 +1,28 @@
+Everytime state is updated, component is re-rendered.
+
+state persists between renders of your component. 
+so does ref
+
+ref does not cause your component to re-update when it change
+
+-- reference elements inside your HTML
+biggest HTML 
+
+--> all management should be done thru state
+
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

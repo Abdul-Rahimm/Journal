@@ -1,0 +1,25 @@
+I have realized that I currently have a lot of things which I am focusing on.
+
+1. Leetcode / codeforces (in my university time, I dedicate large portion of my time here)
+
+-> This could, right now be divided into parts:
+a) Leetcode contest by Abhinash
+b) Codeforces div 4 by Neal Wu
+
+
+2. Web Development - Frontend (large part of my job time is invested here)
+----------------------------------------------------------------------------------------------------------------------------
+
+Some things which I need to do:
+
+- Start learning JS concepts for interviews (not urgent)
+- Start React-Native Project
+- Resume Coding with Dawid project.
+
+- Mazeed strengthen frontend concepts like flex-box and grid. (I think this will get automatically covered in coding with Dawid so that is high priority)
+- Mazeed work on how pages are designed.
+-> Today, I watched and implemented the three-tier pricing plan. Learned a good system for coding.
+
+- AWS services.
+- Exploring Drupal in Office.
+

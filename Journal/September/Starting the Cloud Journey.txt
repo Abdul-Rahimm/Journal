@@ -1,0 +1,13 @@
+Starting the Cloud Journey with Discipline.
+
+Day 01
+-- Cloud practitioner course is knowledge based. 
+
+-- Elastic Beanstalk --> directly use a pre-configured server for deployment of your app
+qs: an software company needs to deploy their app(ruby) but they dont want to know the config and technical details. what should they use.
+without needing to fully know and understand the underlying infra
+
+qs) an accounting firm needs to save customer data. for 7 years. which storage service should they use
+-- now for this u need to understand k which service serves exactly what usecases. characterstics of each storage service
+
+Day 01 went pretty well Ah.
