@@ -1,0 +1,7 @@
+there are 5 rules
+
+1. Independent of Frameworks
+2. testable. 
+3. UI Independent
+4. databse Independent
+5. external agency Independent 
