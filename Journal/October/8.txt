@@ -1,0 +1,11 @@
+I am learning about clean architecture on a daily basis
+There is so much to learn. But I am sleepy right now. xD
+
+there are 4 main things I need to keep in mind:
+1. Frameworks
+2. Interface adapters
+3. usecases
+4. business logic
+
+the fifth thing is infrastructure, which seperates the DB stuff. 
+so that when testing, you dont need a database connected.
