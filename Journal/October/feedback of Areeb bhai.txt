@@ -1,0 +1,34 @@
+1. search and menu on both web and mobile is not mega collapsable.
+buhat chota chota text sabse ooper
+
+menu band hojaye bahar click kro tou
+3x3 grid rows on menu
+
+
+search ko mobile pe menu se bahar laao
+
+rounded button design not good
+
+image zrori ni on hero section
+
+2. On collapse should show no more then 3-4 highlighted under each category
+what about others? scroll?
+
+3. on web , menu is shifted to right... Not looking good on right .
+
+4. Hero section still not fitting the initial screen
+
+5. On first page load, loading also have some issues
+
+6. No need to bold menu items or their headings
+-------------------------------------------------------------------------------
+-- standardize - add service page - shud be intuitive
+	type validations
+	
+-- image dimensions - when uploading icons for example
+
+height 1200px of hero
+
+max users are using 17inch displays
+
+description on drupal shud come at left

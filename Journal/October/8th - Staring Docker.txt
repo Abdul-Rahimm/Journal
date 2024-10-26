@@ -1,0 +1,67 @@
+containerization.
+
+seperates app from infra.
+
+what are the things which you do with an app?
+develop
+test
+monitor
+ship
+deploy
+
+lightweight, local standardized container which have everything which is needed to run the app. OS etc
+------------------------------------------------------------------------------------------------------------------
+
+docker compose - define and run multi-container apps.
+
+what is a container? this is a key question.
+
+exe of software.
+
+We will use it and learn the benefits by doing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+AWS global infrastructure - globally distributed hardware and datacenters physically connected together.
+
+1. Launched Regions 32
+2. Availablity Zones 102
+3. Direct Connection Locations 115
+4. PoPs 550
+5. Local Zone
+6. Wavelength Zones.
+
+Regions
+1. Regulatory compliance
+2. cost of AWS services vary in regions
+3. availability also varies
+4. distance and latency to end users.
+
+ 

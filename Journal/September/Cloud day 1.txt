@@ -1,0 +1,66 @@
+Cloud Practitioner.
+
+-- Distributed Computing. How would I define it. 
+Multiple Systems acting as one(cloud) abstraction
+Multiple Physical machines that act as one system. The system is abstracted into multiple cloud services
+
+Collection of cloud services which could be used under a single API(AWS API)
+
+EC2 - allows users to run apps on a virtual server(instance) - web server in short.
+
+This course is actually highly structured. 
+You highlight questions and then you answer them... so that the student knows what he is learning about. 
+
+*Important Note:
+IBM could have been top-tier. But they couldn't hold up with AWS. they lost the race.
+
+-- underutilization is a problem in dedicated and VMS.
+-------------------------------------------------------------------------------------------
+There are four major cloud service categories
+1. Compute
+2. Storage
+3. Network and Content delivery
+4. Databases
+-------------------------------------------------------------------------------------------
+
+Types of Cloud Computing
+
+1. SaaS - gmail - with customers in mind
+product which is run and managed by the CSP. Customers dont have to worry about how it is maintained. Its highly available.
+
+2. PaaS - for devs
+you just deploy your code.. the platform does the rest. 
+
+3. IaaS - for admins
+this is where CSPs are present. AWS GCP etc
+u can use a lot of services.. without worrying about IT staff managing the servers etc.
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

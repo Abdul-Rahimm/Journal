@@ -1,0 +1,32 @@
+Started with 3 productive hours at the start of the day 12-3.
+Then productivity fell... took sleep as a reset button. Restarted studying at 8
+
+-- For general compute, we have EC2.
+-- AWS offers GPU compute as well as Quantum computation power.
+
+6 advantages of cloud
+1. pay as u go
+2. scale up or down as per need
+3. increased speed and agility
+4. increased focus on customer
+5. global reach in minutes
+
+--------------------------------------------------------------------------------------------
+-- the purpose of policy is to define permissions for users or resources.
+-- buckets are like folders on computer.
+-- S3 is object-based storage service.
+
+--------------------------------------------------------------------------------------------
+-- lifecycle policies automatically shift your data from standard to IA or glacier. this is cool.
+-- 
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------

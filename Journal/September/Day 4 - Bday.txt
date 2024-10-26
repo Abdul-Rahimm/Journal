@@ -1,0 +1,52 @@
+Learning about Storage and Databases.
+
+You can have multiple solutions which can solve you storage problem. U need to identify the best one according to your usecase.
+
+1. EBS elastic block store
+2. S3
+3. EFS elastic file system
+4. RDS relational database service
+5. DynamoDB
+
+----------------------------------------------------------------------------------
+
+CPU, memory, network and storage. These are the main components you need to keep in mind when utilizing EC2.
+
+EBS is like a persistent hardware that your application can write to.
+so even if u stop the EC2 instance... and start it again sometime later... your data wont be lost.
+
+han, kuch storage comes naturally with Ec2 instance itself. - instance store.
+
+----------------------------------------------------------------------------------
+
+lifecycle policies in S3 automates moving objects from one category to another.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

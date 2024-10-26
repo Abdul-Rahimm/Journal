@@ -1,0 +1,116 @@
+Variational Quantum Classifier (VQC) 
+
+- Uses a hybrid approach.
+- classical optimization with Q circuits to classify data
+-------------------------------------------------------------------------------
+pre assignment research:
+
+--> Some steps to design a general VQC:
+
+1. Data encoding (feature mapping)
+- classical data --> quantum state.
+- you encode the input features in this phase.
+- eg: angle encoding. for each classical feature, use RX OR Rz 
+
+2. Q circuit (Ansatz)
+- parametrized quantum circuit. 
+- adjustable parameters
+- layers of parametrized quantum gates (rx, ry, cz etc)
+- entanglement bw qubits also happens.
+
+3. Measurement
+- Q circuit processes the input --> we measure the qubits on z-basis --> output = classical data(probabilities)
+
+4. Classical Optimization
+- Cost function (eg: cross-entropy loss)
+- using optimizers (gradient descent or Adam)
+-----------------------------------------------------------------------------------------
+
+For the assignment. 
+1. I downloaded Miniconda on my device. 
+ then open terminal and write "conda init" to make sure you can use conda commands inside vscode terminal.
+
+2. Setup a new environment for qiskit... thru terminal. write "conda create --name [your-name]"
+inside this environment, you can then install the latest python features thru pip
+makes your work clean.
+ 
+3. write "pip install qiskit" to install the latest version
+it will download some other pkgs automatically such as numpy,scipy etc
+
+4. installed matplotlib, 
+	qiskit_ibm_runtime(connects qiskit to IBM runtime env)
+and some other packages.
+
+5. ready to code with qiskit. env has been set up.
+-----------------------------------------------------------------------------------------
+
+Learning basic qiskit
+
+qiskit patterns - 4 step plan
+1. map the problem to circuits and operators
+2. optimize the circuit
+3. execute it on a backend
+4. post process the results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
